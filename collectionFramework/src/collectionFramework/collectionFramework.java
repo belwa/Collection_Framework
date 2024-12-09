@@ -3,7 +3,7 @@ import java.util.*;
 
 
 //Q1 iterating the arraylist
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -19,12 +19,12 @@ public class collectionFramework {
 }
 
 }
-*/
+
 
 
 //============================================================================================================================
 // Q2 remove the lement of an array list
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -44,13 +44,12 @@ public class collectionFramework {
 		
 	}	
 }
-*/
 
 		
 
 //============================================================================================================================
 // Q3  print the each of the number one by one
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -72,12 +71,12 @@ public class collectionFramework {
 		}
 	}
 }
-*/
+
 
 
 //===========================================================================================================================
 // Q4 print the each element of the even number
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -101,11 +100,11 @@ public class collectionFramework {
 		
 	}
 }
-*/
+
 
 //===========================================================================================================================
 // Q5 print the each elemnt of the number is the odd digit
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -129,12 +128,12 @@ public class collectionFramework {
 		
 	}
 }
-*/
+
 
 
 //==========================================================================================================================
 // Q6 print the each digit of the number count
-/*
+
 public class collectionFramework {
 	
 public static void main (String[] args) {
@@ -159,11 +158,11 @@ public static void main (String[] args) {
       System.out.println("Number of digit greater then : " +count);
 }
 }
-*/
 
-//========================================================================================================================
+
+
 // Q7 print the max number of each of the digit number 58975856
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -189,11 +188,11 @@ public class collectionFramework {
 		System.out.println("the max value of the number is: "+max);
 	}
 }
-*/
+
 //=================================================================================================================================================================
 
 // Q8 print the biggest and smallest of the number print
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -227,12 +226,12 @@ public class collectionFramework {
 		
 	}
 }
-*/
+
 
 //=================================================================================================================================================================
 	
 // Q9 print the sum of umber of the digit
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -258,11 +257,11 @@ public class collectionFramework {
 		System.out.println("Sum of the number is "+ sum);
 	}
 }
-*/
+
 
 //==============================================================================================================================================
 // Q10 product of the elemnet
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -288,11 +287,11 @@ public class collectionFramework {
 	}
 	
 }
-*/
+
 
 //===============================================================================================================================================
 // Q12 print the number of the even number of the sum
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -319,11 +318,11 @@ public class collectionFramework {
 		
 	}
 }
-*/
+
 
 //=====================================================================================================================================================================
 // Q13 design a method which accept a collection and remove all the String type element from collection
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -352,11 +351,11 @@ public class collectionFramework {
 	}
 		
 }
-*/
+
 
 //==========================================================================================================================================================
 // Q14 design a method will accept a collection and will remove all the elemnt which are not a String
-/*
+
 public  class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -460,7 +459,7 @@ public class collectionFramework {
 
 //============================================================================================================================================
 // Q18 design a method to print the even integer of the method
-/*
+
 public class collectionFramework {
 	
 	public static void main (String[] args) {
@@ -489,7 +488,7 @@ public class collectionFramework {
 	}
 	
 }	
-*/
+
 
 
 
