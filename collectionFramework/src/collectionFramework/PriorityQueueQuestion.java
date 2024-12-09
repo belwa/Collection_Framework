@@ -3,7 +3,7 @@ package collectionFramework;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-/*
+
 // Q1 sort all the element of the array
 
 public class PriorityQueueQuestion {
@@ -30,10 +30,9 @@ public class PriorityQueueQuestion {
 		System.out.println("Sortest array: "+ Arrays.toString(a));
 		
 
-*/
 
-//====================================================================================================================================================
-// Q2 sortest all the element of the queue
+
+
 
 
 
